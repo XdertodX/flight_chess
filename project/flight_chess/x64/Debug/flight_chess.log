@@ -1,0 +1,3 @@
+﻿  flight_chess.cpp
+C:\Users\xqx\Desktop\C\C++\vs\flight_chess\flight_chess\flight_chess.cpp(105): warning C4715: “set_computer_num”: 不是所有的控件路径都返回值
+  flight_chess.vcxproj -> C:\Users\xqx\Desktop\C\C++\vs\flight_chess\x64\Debug\flight_chess.exe
